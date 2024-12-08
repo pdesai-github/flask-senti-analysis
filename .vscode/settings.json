@@ -31,6 +31,6 @@
         "env1{,/**}",
         ".vscode{,/**}"
     ],
-    "appService.defaultWebAppToDeploy": "/subscriptions/235b620b-2b1a-4766-9dce-3dc6f0acbf77/resourceGroups/pd-ml-api/providers/Microsoft.Web/sites/pd-flask-test",
+    "appService.defaultWebAppToDeploy": "",
     "appService.deploySubpath": "."
 }
